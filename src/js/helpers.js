@@ -32,7 +32,7 @@ export const AJAX = async function (url, uploadData = undefined) {
   }
 };
 
-// both functions below were refactored to make the one above
+// both functions below were refactored to make the one above, look over how these work
 
 // export const getJSON = async function (url) {
 //   try {

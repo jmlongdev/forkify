@@ -2,6 +2,7 @@ import View from './view.js';
 import previewView from './previewView.js';
 import icons from 'url:../../img/icons.svg'; // parcel 2
 
+//ResultsView
 class ResultsView extends View {
   _parentElement = document.querySelector('.results');
   _errorMessage = 'No recipes found! Please try again.';

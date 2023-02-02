@@ -1,3 +1,4 @@
+// Search View
 class SearchView {
   _parentElement = document.querySelector('.search');
 
